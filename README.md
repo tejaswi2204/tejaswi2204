@@ -17,5 +17,5 @@ I build end-to-end analytics projects — from data collection and modeling to d
 | [Migraine Detection](https://github.com/tejaswi2204/Migraine-Detection) | Python, Scikit-learn | ML classification model for migraine prediction |
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshmi-tejaswi-srinivasula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tejaswi-srinivasula/)
 [![Resume](https://img.shields.io/badge/Resume-View-green)](https://raw.githubusercontent.com/tejaswi2204/tejaswi2204/main/SLakshmiTejaswi_Resume.pdf)
