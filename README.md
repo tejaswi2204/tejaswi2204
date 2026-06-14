@@ -8,7 +8,7 @@ MCA Graduate from KL University (9.17 CGPA) · Based in Vijayawada, AP · Open t
 
 ### 🔍 About Me
 
-I turn raw data into clear decisions — through exploratory analysis, machine learning, and visual storytelling.
+I turn raw data into clear decisions - through exploratory analysis, machine learning, and visual storytelling.
 
 - 🎓 MCA · KL University, Vijayawada (2026)
 - 📊 6 end-to-end analytics projects across BI, NLP, ML, and sales analytics
@@ -65,15 +65,7 @@ I turn raw data into clear decisions — through exploratory analysis, machine l
 - 📋 **Data Analytics Virtual Experience** — Deloitte (Forage), 2025
 - 📋 **Data Visualisation: Empowering Business with Effective Insights** — Tata Group (Forage), 2025
 
----
 
-### 📈 GitHub Stats
-
-![Tejaswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejaswi2204&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswi2204&layout=compact&theme=default&hide_border=true)
-
----
 
 ### 🤝 Let's Connect
 
