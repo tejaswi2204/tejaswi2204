@@ -2,15 +2,14 @@
 
 **Data Analyst** · SQL · Python · Power BI · Machine Learning
 
-MCA Graduate from KL University (9.17 CGPA) · Based in Vijayawada, AP · Open to opportunities
+Based in Vijayawada, AP · Open to opportunities
 
 ---
 
 ### 🔍 About Me
 
-I turn raw data into clear decisions - through exploratory analysis, machine learning, and visual storytelling.
+I turn raw data into clear decisions — through exploratory analysis, machine learning, and visual storytelling.
 
-- 🎓 MCA · KL University, Vijayawada (2026)
 - 📊 6 end-to-end analytics projects across BI, NLP, ML, and sales analytics
 - 🏆 97.9% accuracy on migraine detection · 0.91 ROC-AUC on flood prediction
 - 📍 Vijayawada, AP · Open to relocate to Bangalore
@@ -65,7 +64,11 @@ I turn raw data into clear decisions - through exploratory analysis, machine lea
 - 📋 **Data Analytics Virtual Experience** — Deloitte (Forage), 2025
 - 📋 **Data Visualisation: Empowering Business with Effective Insights** — Tata Group (Forage), 2025
 
+---
 
+
+
+---
 
 ### 🤝 Let's Connect
 
