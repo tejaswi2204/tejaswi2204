@@ -73,7 +73,7 @@ I turn raw data into clear decisions — through exploratory analysis, machine l
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswi-srinivasula)
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://tejaswi2204.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://tejaswi2204.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tejaswisrinivasula17@gmail.com)
 
 ---
