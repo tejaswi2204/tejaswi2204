@@ -12,7 +12,7 @@ I turn raw data into clear decisions — through exploratory analysis, machine l
 
 - 📊 6 end-to-end analytics projects across BI, NLP, ML, and sales analytics
 - 🏆 97.9% accuracy on migraine detection · 0.91 ROC-AUC on flood prediction
-- 📍 Vijayawada, AP · Open to relocate to Bangalore
+- 📍 Vijayawada, AP · Open to relocate to Hyderabad, Bangalore, Chennai or working remotely
 - 💼 Open to Data Analyst, BI Analyst, and Analytics roles
 
 ---
