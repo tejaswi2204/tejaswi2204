@@ -10,7 +10,7 @@ Based in Vijayawada, AP · Open to opportunities
 
 I turn raw data into clear decisions — through exploratory analysis, machine learning, and visual storytelling.
 
-- 📊 6 end-to-end analytics projects across BI, NLP, ML, and sales analytics
+- 📊 7 end-to-end analytics projects across product analytics, BI, NLP, ML, and sales analytics
 - 🏆 97.9% accuracy on migraine detection · 0.91 ROC-AUC on flood prediction
 - 📍 Vijayawada, AP · Open to relocate to Hyderabad, Bangalore, Chennai or working remotely
 - 💼 Open to Data Analyst, BI Analyst, and Analytics roles
@@ -39,7 +39,7 @@ I turn raw data into clear decisions — through exploratory analysis, machine l
 
 **Tools**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -50,12 +50,13 @@ I turn raw data into clear decisions — through exploratory analysis, machine l
 
 | Project | Tools | Highlight |
 |---|---|---|
+| [🗣️ LingoLeap](https://github.com/tejaswi2204/Lingoleap) | MySQL · Power BI · DAX | 10,000+ simulated users · 40,000+ sessions · acquisition to Premium conversion and retention |
 | [🎵 Music Streaming NLP Analytics](https://github.com/tejaswi2204/music-streaming-nlp-analytics) | Python · NLP · Power BI | SBERT + KMeans on 1,000+ reviews across 5 platforms |
 | [🧠 Migraine Detection](https://github.com/tejaswi2204/Migraine-Detection) | Python · Scikit-learn · Random Forest | 97.9% accuracy · ROC-AUC 1.000 |
 | [📊 Sales Insights Dashboard](https://github.com/tejaswi2204/Sales-Insights-Data-Analysis) | Power BI · MySQL · DAX | 4-page interactive dashboard for Atliq Hardware |
 | [🎸 Chinook Music Store](https://github.com/tejaswi2204/Chinook) | Power BI · SQL · DAX | 22,000+ invoice records · genre & CLV analysis |
 | [🌊 Flood Prediction System](https://github.com/tejaswi2204/flood-prediction) | Python · XGBoost · EDA | 0.91 ROC-AUC · 48-hr advance flood alerts |
-| [🚴 CycleAware](https://github.com/tejaswi2204/cycleaware) | Python · Flask · ML | Real-time cycling risk classifier deployed via Flask |
+| [🚴 CycleAware](https://github.com/tejaswi2204/cycleaware) | Python · FastAPI · Random Forest | Real-time cycling risk classifier with a FastAPI backend |
 
 ---
 
@@ -66,14 +67,10 @@ I turn raw data into clear decisions — through exploratory analysis, machine l
 
 ---
 
-
-
----
-
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswi-srinivasula)
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://tejaswi2204.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://tejaswi2204.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tejaswisrinivasula17@gmail.com)
 
 ---
